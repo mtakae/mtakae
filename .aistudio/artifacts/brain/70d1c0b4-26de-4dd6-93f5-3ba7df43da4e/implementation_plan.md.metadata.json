@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to upgrade GeoThermalEdu with the Leaflet GIS mapping engine, providing sub-meter precision Google Maps satellite alignment, accurate Danau Linow coordinates (1.2708332, 124.8057893), georeferenced raster overlays, and waypoint deletion functionality.",
+  "updatedAt":  "2026-10-23T07:04:03.065036444Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

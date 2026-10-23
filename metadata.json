@@ -1,0 +1,6 @@
+{
+  "name": "GeoThermalEdu Lahendong - Educational GIS & Land Cover Simulator",
+  "description": "Interactive educational WebApp translating UNSRAT PKM research into satellite imagery, geothermal LST thermal anomaly mapping, NDVI land cover, and automated fieldwork report generation for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
